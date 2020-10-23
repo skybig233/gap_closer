@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f0bc3818-ba32-4227-a0dd-d3f127d8e998" name="深圳大内存1">
+        <fileTransfer rootFolder="/ldfssz1/ST_OCEAN/USER/jiangzhesheng" accessType="SFTP" host="localhost" port="9000" sshConfigId="d3d430f2-317a-437c-9f4d-aae73f131f6a" sshConfig="jiangzhesheng@localhost:9000 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
